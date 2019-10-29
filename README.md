@@ -1,9 +1,5 @@
 # i-miss-macros-sadface
 
-`![so-fresh-so-clean](https://user-images.githubusercontent.com/888624/67136922-9d91ed00-f1e2-11e9-8618-2fe7bb77859f.png)`
-
-![so-fresh-so-clean](https://user-images.githubusercontent.com/888624/67136922-9d91ed00-f1e2-11e9-8618-2fe7bb77859f.png)
-
 `![smashing](https://user-images.githubusercontent.com/888624/67184525-d83d8600-f398-11e9-84aa-4cd30d4ab5ed.gif)`
 
 ![smashing](https://user-images.githubusercontent.com/888624/67184525-d83d8600-f398-11e9-84aa-4cd30d4ab5ed.gif)
@@ -34,7 +30,11 @@
 
 `![data-races](https://user-images.githubusercontent.com/888624/67603949-2bb02b00-f72f-11e9-9db2-3f96a38a3406.jpg)`
 
-![data-races](https://user-images.githubusercontent.com/888624/67603949-2bb02b00-f72f-11e9-9db2-3f96a38a3406.jpg)
+![data-races](https://user-images.githubusercontent.com/888624/67603949-2bb02b00-f72f-11e9-9db2-3f96a38a3406.jpg
+
+`![so-fresh-so-clean](https://user-images.githubusercontent.com/888624/67734420-4946f400-f9be-11e9-8178-f7cf546f1f59.png)`
+
+![so-fresh-so-clean](https://user-images.githubusercontent.com/888624/67734420-4946f400-f9be-11e9-8178-f7cf546f1f59.png)
 
 `![madison](https://user-images.githubusercontent.com/888624/67642892-bcbd0880-f8cd-11e9-8530-75fa5fe8560f.gif)`
 
