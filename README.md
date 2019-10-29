@@ -48,3 +48,11 @@
 
 ![taytay](https://user-images.githubusercontent.com/888624/67734763-2b2dc380-f9bf-11e9-9356-3e83f926f6c1.gif)
 
+`![f](https://user-images.githubusercontent.com/888624/67735043-1ef63600-f9c0-11e9-8e65-873f541cb343.gif)`
+
+![f](https://user-images.githubusercontent.com/888624/67735043-1ef63600-f9c0-11e9-8e65-873f541cb343.gif)
+
+`![nod](https://user-images.githubusercontent.com/888624/67735155-844a2700-f9c0-11e9-91b3-22c5c79ad2d9.gif)`
+
+![nod](https://user-images.githubusercontent.com/888624/67735155-844a2700-f9c0-11e9-91b3-22c5c79ad2d9.gif)
+
