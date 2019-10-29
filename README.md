@@ -30,7 +30,7 @@
 
 `![data-races](https://user-images.githubusercontent.com/888624/67603949-2bb02b00-f72f-11e9-9db2-3f96a38a3406.jpg)`
 
-![data-races](https://user-images.githubusercontent.com/888624/67603949-2bb02b00-f72f-11e9-9db2-3f96a38a3406.jpg
+![data-races](https://user-images.githubusercontent.com/888624/67603949-2bb02b00-f72f-11e9-9db2-3f96a38a3406.jpg)
 
 `![so-fresh-so-clean](https://user-images.githubusercontent.com/888624/67734420-4946f400-f9be-11e9-8178-f7cf546f1f59.png)`
 
