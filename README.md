@@ -56,3 +56,8 @@
 
 ![nod](https://user-images.githubusercontent.com/888624/67735155-844a2700-f9c0-11e9-91b3-22c5c79ad2d9.gif)
 
+`![copypasta](https://user-images.githubusercontent.com/888624/67750064-ac02b480-f9eb-11e9-8f8e-be55f2f36d83.gif)`
+
+![copypasta](https://user-images.githubusercontent.com/888624/67750064-ac02b480-f9eb-11e9-8f8e-be55f2f36d83.gif)
+
+
