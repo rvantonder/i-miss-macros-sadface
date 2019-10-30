@@ -76,5 +76,8 @@
 
 ![alice](https://user-images.githubusercontent.com/888624/67889151-8c62ad80-fb0b-11e9-9a19-3a5d82a1ddec.gif)
 
+`![lint](https://user-images.githubusercontent.com/888624/67892277-9edfe580-fb11-11e9-949b-23e4d2294263.gif)`
+
+![lint](https://user-images.githubusercontent.com/888624/67892277-9edfe580-fb11-11e9-949b-23e4d2294263.gif)
 
 
