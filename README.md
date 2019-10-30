@@ -80,4 +80,8 @@
 
 ![lint](https://user-images.githubusercontent.com/888624/67892277-9edfe580-fb11-11e9-949b-23e4d2294263.gif)
 
+`![stop](https://user-images.githubusercontent.com/888624/67903350-9050f880-fb28-11e9-8669-88b64e7e15e4.gif)`
+
+![stop](https://user-images.githubusercontent.com/888624/67903350-9050f880-fb28-11e9-8669-88b64e7e15e4.gif)
+
 
