@@ -64,4 +64,8 @@
 
 ![you-got-it](https://user-images.githubusercontent.com/888624/67816297-c9289900-fa66-11e9-9ec8-90267621cc55.gif)
 
+`![trash-it](https://user-images.githubusercontent.com/888624/67820037-de0c2900-fa74-11e9-99e7-a1144172afb9.gif)`
+
+![trash-it](https://user-images.githubusercontent.com/888624/67820037-de0c2900-fa74-11e9-99e7-a1144172afb9.gif)
+
 
