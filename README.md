@@ -84,4 +84,7 @@
 
 ![stop](https://user-images.githubusercontent.com/888624/67903350-9050f880-fb28-11e9-8669-88b64e7e15e4.gif)
 
+`![abandon](https://user-images.githubusercontent.com/888624/67978774-12e4c100-fbd8-11e9-9c61-371341ae4d2a.jpeg)`
+
+![abandon](https://user-images.githubusercontent.com/888624/67978774-12e4c100-fbd8-11e9-9c61-371341ae4d2a.jpeg)
 
