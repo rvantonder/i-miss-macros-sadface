@@ -100,4 +100,7 @@
 
 ![yuck](https://user-images.githubusercontent.com/888624/68050168-cfef2000-fca1-11e9-8293-994501e2fead.gif)
 
+`![no-me-gusta](https://user-images.githubusercontent.com/888624/68055600-4a25a180-fcae-11e9-9a86-0ce82b157c08.gif)`
+
+![no-me-gusta](https://user-images.githubusercontent.com/888624/68055600-4a25a180-fcae-11e9-9a86-0ce82b157c08.gif)
 
