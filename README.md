@@ -111,3 +111,8 @@
 `![shame-cube](https://user-images.githubusercontent.com/888624/68059489-e5704400-fcb9-11e9-8a8a-6696d15703f5.gif)`
 
 ![shame-cube](https://user-images.githubusercontent.com/888624/68059489-e5704400-fcb9-11e9-8a8a-6696d15703f5.gif)
+
+`![missed](https://user-images.githubusercontent.com/888624/68079353-82f47200-fda5-11e9-98f8-72c5b3ca98b3.gif)`
+
+![missed](https://user-images.githubusercontent.com/888624/68079353-82f47200-fda5-11e9-98f8-72c5b3ca98b3.gif)
+
