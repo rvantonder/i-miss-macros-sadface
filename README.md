@@ -116,3 +116,6 @@
 
 ![missed](https://user-images.githubusercontent.com/888624/68079353-82f47200-fda5-11e9-98f8-72c5b3ca98b3.gif)
 
+`![oshi](https://user-images.githubusercontent.com/888624/68082057-07121e00-fdd5-11e9-9074-efc89497d5db.gif)`
+
+![oshi](https://user-images.githubusercontent.com/888624/68082057-07121e00-fdd5-11e9-9074-efc89497d5db.gif)
