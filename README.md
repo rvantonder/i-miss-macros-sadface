@@ -124,3 +124,6 @@
 
 ![ship-it](https://user-images.githubusercontent.com/888624/68104565-cbd92300-fe98-11e9-9727-0a5ed0eddd57.png)
 
+`![double-tap](https://user-images.githubusercontent.com/888624/68156148-7ccad680-ff08-11e9-9e31-9db93cfb6c23.gif)`
+
+![double-tap](https://user-images.githubusercontent.com/888624/68156148-7ccad680-ff08-11e9-9e31-9db93cfb6c23.gif)
