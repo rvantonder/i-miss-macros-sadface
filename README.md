@@ -127,3 +127,7 @@
 `![double-tap](https://user-images.githubusercontent.com/888624/68156148-7ccad680-ff08-11e9-9e31-9db93cfb6c23.gif)`
 
 ![double-tap](https://user-images.githubusercontent.com/888624/68156148-7ccad680-ff08-11e9-9e31-9db93cfb6c23.gif)
+
+`![leak](https://user-images.githubusercontent.com/888624/98043327-473e1f00-1de2-11eb-9e92-afe600a635c3.gif)`
+
+![leak](https://user-images.githubusercontent.com/888624/98043327-473e1f00-1de2-11eb-9e92-afe600a635c3.gif)
