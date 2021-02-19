@@ -139,3 +139,7 @@
 `![KEKBye](https://user-images.githubusercontent.com/888624/106988891-1c8b9b80-672e-11eb-8813-b307eec67c6e.gif)`
 
 ![KEKBye](https://user-images.githubusercontent.com/888624/106988891-1c8b9b80-672e-11eb-8813-b307eec67c6e.gif)
+
+`![fail](https://user-images.githubusercontent.com/888624/108444120-41e0d500-7217-11eb-8467-875adf191b74.gif)`
+
+![fail](https://user-images.githubusercontent.com/888624/108444120-41e0d500-7217-11eb-8467-875adf191b74.gif)
