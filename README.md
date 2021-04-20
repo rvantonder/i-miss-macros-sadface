@@ -139,3 +139,7 @@
 `![fail](https://user-images.githubusercontent.com/888624/108444120-41e0d500-7217-11eb-8467-875adf191b74.gif)`
 
 ![fail](https://user-images.githubusercontent.com/888624/108444120-41e0d500-7217-11eb-8467-875adf191b74.gif)
+
+`![ci](https://user-images.githubusercontent.com/888624/115337274-83c5c300-a155-11eb-892e-99c4ffc45d73.gif)`
+
+![ci](https://user-images.githubusercontent.com/888624/115337274-83c5c300-a155-11eb-892e-99c4ffc45d73.gif)
